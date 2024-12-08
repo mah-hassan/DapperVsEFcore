@@ -1,4 +1,4 @@
-﻿#DapperVsEFcore
+﻿# DapperVsEFcore
 
 ## Strat
 ### **Note**: I am using PostgreSQL as a database engine. install it first or go with your own engine, but do not forget to update appSettings.json file
